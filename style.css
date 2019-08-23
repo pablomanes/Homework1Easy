@@ -1,0 +1,88 @@
+body{
+    background-color: #777;
+}
+
+.container{
+  margin:auto;
+  font-size: 18px;
+  width: 980px;
+  color:black;
+  text-align: center;
+  font-family: 'Ariel','Helvetica Neue', Helvetica,sans-serif;
+}
+
+header{
+  font-size: 18px;
+  background-color:#ebebeb;
+  padding:20px 0 20px 0;
+}
+
+nav{
+  padding:20px 0 20px 0;
+  margin-top:20px;
+}
+
+section{
+  margin-top:20px;
+  float: left;
+  width: 49%;
+  height: 300px;
+}
+
+article{
+  font-size: 18px;
+  background-color:#777;
+  margin: 0px 20px;
+  padding: 20px 0;
+}
+aside{
+  margin-top:20px;
+  float: right;
+  width:49%;
+  height: 300px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+h1{
+width: 400px;
+margin:auto;
+}
+
+h2{
+width: 400px;
+margin:auto;
+margin-top: 10px;
+font-size:inherit;
+}
+
+h3{
+width: 400px;
+margin:auto;
+font-weight: normal;
+margin-top:10px;
+padding:20px 0 20px 0;
+}
+
+article > p{
+width: 400px;
+margin: auto;
+margin-top: 10px;
+padding:20px 0 20px 0;
+}
+
+.feet{
+clear: both;
+font-size: 18px;
+background-color:#ebebeb;
+padding:20px 0 20px 0;
+
+}
+
+
+
+.WhiteBKG {
+  font-size: 18px;
+  background-color:#ebebeb;
+
+}
